@@ -48,3 +48,11 @@ AccuFaceLogix is an innovative facial recognition-based attendance management sy
   Prioritizes data security and privacy to instill confidence in users.
 
 AccuFaceLogix represents a leap forward in attendance management, offering a modern and efficient solution for organizations seeking a reliable, secure, and user-friendly system.
+These Are the User Interfaces of the Project
+
+![image](https://github.com/JagadeeshGunti/AccuFace-Logix/assets/144555870/96af9632-9cf3-40d0-8e2d-719b304f9283)
+![image](https://github.com/JagadeeshGunti/AccuFace-Logix/assets/144555870/4414e146-437d-4d98-8eb3-9b7834ad2661)
+![image](https://github.com/JagadeeshGunti/AccuFace-Logix/assets/144555870/79105128-f6a4-4f81-9c09-75b4e5c562c7)
+
+
+
